@@ -1,0 +1,19 @@
+.titulo {
+	fond-size: 10em;	
+}
+section h2 { 
+ font-size: 100em;
+ }
+.text-primary {
+  color: #3FF5EC;
+}
+
+a {
+  color: #3FF5EC;
+}
+a:hover,
+a:focus,
+a:active,
+a.active {
+  color: #3FF5EC;
+}
